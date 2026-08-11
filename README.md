@@ -1,3 +1,9 @@
+> ⚠️ **Superseded.** This was my first pass at a YouTube downloader (Streamlit
+> web app). It works for basic cases but has no handling for YouTube's
+> bot-check/sign-in walls. I rebuilt it as a proper CLI package with better
+> error handling and format control — see
+> [yt-downloader V2](https://github.com/AlxeverCodeX/Youtube-Video-Downloader-V2-).
+
 # Youtube-Video-Downloader
 
 A lightweight YouTube video downloader built with Python, Streamlit, yt-dlp, and FFmpeg. Users can paste a YouTube video URL, select their preferred quality, and download videos through a simple web interface.
